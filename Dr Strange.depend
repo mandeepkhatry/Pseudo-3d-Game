@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1489323780 source:c:\users\inspiration\desktop\dr strange\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"line.h"
+	"road.h"
+	"generator.h"
+	"menu.h"
+
+1489323257 c:\users\inspiration\desktop\dr strange\line.h
+	<cmath>
+
+1489310833 c:\users\inspiration\desktop\dr strange\road.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1489320537 c:\users\inspiration\desktop\dr strange\generator.h
+	"line.h"
+
+1489155266 c:\users\inspiration\desktop\dr strange\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1489155337 source:c:\users\inspiration\desktop\dr strange\menu.cpp
+	"menu.h"
+
+1489370675 source:d:\dr strange\menu.cpp
+	"menu.h"
+
+1489374347 d:\dr strange\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1489377106 source:d:\dr strange\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"line.h"
+	"road.h"
+	"generator.h"
+	"menu.h"
+
+1489323257 d:\dr strange\line.h
+	<cmath>
+
+1489381299 d:\dr strange\road.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1489320537 d:\dr strange\generator.h
+	"line.h"
+
+1489377106 source:f:\dr strange\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"line.h"
+	"road.h"
+	"generator.h"
+	"menu.h"
+
+1489323257 f:\dr strange\line.h
+	<cmath>
+
+1489381299 f:\dr strange\road.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1489320537 f:\dr strange\generator.h
+	"line.h"
+
+1489374347 f:\dr strange\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1489370675 source:f:\dr strange\menu.cpp
+	"menu.h"
+
+1489475840 source:c:\users\mandeep khatry\desktop\new folder (2)\dr strange\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"line.h"
+	"road.h"
+	"generator.h"
+	"menu.h"
+
+1489460384 c:\users\mandeep khatry\desktop\new folder (2)\dr strange\line.h
+	<cmath>
+
+1489463602 c:\users\mandeep khatry\desktop\new folder (2)\dr strange\road.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1489320537 c:\users\mandeep khatry\desktop\new folder (2)\dr strange\generator.h
+	"line.h"
+
+1489374347 c:\users\mandeep khatry\desktop\new folder (2)\dr strange\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1489423177 source:c:\users\mandeep khatry\desktop\new folder (2)\dr strange\menu.cpp
+	"menu.h"
+
+1489475840 source:d:\dr strange\dr strange\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"line.h"
+	"road.h"
+	"generator.h"
+	"menu.h"
+
+1489460384 d:\dr strange\dr strange\line.h
+	<cmath>
+
+1489463602 d:\dr strange\dr strange\road.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<fstream>
+
+1489320537 d:\dr strange\dr strange\generator.h
+	"line.h"
+
+1489374347 d:\dr strange\dr strange\menu.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1489423177 source:d:\dr strange\dr strange\menu.cpp
+	"menu.h"
+
